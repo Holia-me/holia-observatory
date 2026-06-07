@@ -25,7 +25,7 @@ Effectifs et parts par métier déclaré.
 | Édition | 2026-05 |
 | Fréquence de mise à jour | Édition majeure ou révision taxonomie métiers |
 | Licence | [CC BY 4.0](../../LICENSE) |
-| Portail data.gouv.fr | [Publication en cours](https://www.data.gouv.fr/) · source officielle de téléchargement : Holia |
+| Portail data.gouv.fr | [https://www.data.gouv.fr/](https://www.data.gouv.fr/datasets/observatoire-holia-offre-de-bien-etre-referencee-en-france-edition-juin-2026) · source officielle de téléchargement : Holia |
 | Étude source | [OBS-001 · L'offre de bien-être sur Holia · édition mai 2026](../../studies/obs-001.md) |
 
 ### D01 · Effectifs par commune résolue
@@ -42,7 +42,7 @@ Volume par commune reconnue.
 | Édition | 2026-05 |
 | Fréquence de mise à jour | Édition majeure |
 | Licence | [CC BY 4.0](../../LICENSE) |
-| Portail data.gouv.fr | [Publication en cours](https://www.data.gouv.fr/) · source officielle de téléchargement : Holia |
+| Portail data.gouv.fr | [https://www.data.gouv.fr/](https://www.data.gouv.fr/datasets/observatoire-holia-offre-de-bien-etre-referencee-en-france-edition-juin-2026) · source officielle de téléchargement : Holia |
 | Étude source | [OBS-001 · L'offre de bien-être sur Holia · édition mai 2026](../../studies/obs-001.md) |
 
 ### D10 · Entrées mensuelles en base
@@ -59,7 +59,6 @@ Nouvelles fiches par mois d'enregistrement.
 | Édition | 2026-05 |
 | Fréquence de mise à jour | Édition majeure |
 | Licence | [CC BY 4.0](../../LICENSE) |
-| Portail data.gouv.fr | [Publication en cours](https://www.data.gouv.fr/) · source officielle de téléchargement : Holia |
 | Étude source | [OBS-001 · L'offre de bien-être sur Holia · édition mai 2026](../../studies/obs-001.md) |
 
 ### D05 · Combinaisons multi-filières
